@@ -1,4 +1,4 @@
-dotReadingMedia
-===============
+media of lean read
+==================
 
-dotReading media与数据库备份
+lean-read media 与 数据库备份
