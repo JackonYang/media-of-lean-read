@@ -182,15 +182,15 @@
   "pk": 6, 
   "model": "bookStore.readingstatus", 
   "fields": {
-    "name": "\u91cd\u590d\u5185\u5bb9", 
-    "desc": "\u867d\u7b2c\u4e00\u6b21\u9605\u8bfb\uff0c\u4f46\u662f\uff0c\u6d89\u53ca\u7684\u77e5\u8bc6\u81ea\u5df1\u65e9\u5c31\u5df2\u7ecf\u638c\u63e1\u4e86\u3002\u3002\u3002"
+    "name": "\u5ffd\u7565", 
+    "desc": "\u65e0\u9700\u9605\u8bfb\u548c\u5b66\u4e60\u3002\u539f\u56e0\u5f88\u591a\uff0c\u53ef\u80fd\u5df2\u7ecf\u5b66\u4e60\u8fc7\uff0c\u53ef\u80fd\u53ea\u9002\u5408\u4e8e\u5f53\u4f5c\u624b\u518c"
   }
 },
 {
   "pk": 7, 
   "model": "bookStore.readingstatus", 
   "fields": {
-    "name": "\u5b66\u4e60\u4e86", 
+    "name": "\u5b66\u4e60", 
     "desc": "\u5b66\u5230\u4e86\u975e\u5e38\u6709\u7528\u7684\u4e1c\u897f\uff0c\u4f46\u662f\u7406\u89e3\u7684\u4e0d\u591f\u6df1\u523b\uff0c\u503c\u5f97\u518d\u6b21\u9605\u8bfb\u3002"
   }
 },
@@ -244,6 +244,30 @@
     "notes": "url\u659c\u6760\u95ee\u9898\uff0c\u524d\u9762\u4e0d\u5305\u542b\uff0c\u7b80\u5316\u5de5\u4f5c\uff0c\u6bd4\u5982url\u5185\u5d4c append_slash", 
     "reader": 1, 
     "commit": ""
+  }
+},
+{
+  "pk": 4, 
+  "model": "bookStore.readinglog", 
+  "fields": {
+    "chapter": 2, 
+    "status": 8, 
+    "timestamp": "2013-10-27T12:15:23Z", 
+    "notes": "", 
+    "reader": 2, 
+    "commit": "test"
+  }
+},
+{
+  "pk": 5, 
+  "model": "bookStore.readinglog", 
+  "fields": {
+    "chapter": 6, 
+    "status": 1, 
+    "timestamp": "2013-11-03T14:42:03Z", 
+    "notes": "", 
+    "reader": 1, 
+    "commit": "views \u4e2d\u53ef\u4ee5\u7981\u6b62\u8c03\u7528\u65e0\u53c2\u51fd\u6570\uff0c\u4ee5\u589e\u52a0\u5b89\u5168\u6027"
   }
 }
 ]
