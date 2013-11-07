@@ -90,6 +90,60 @@
   }
 },
 {
+  "pk": 13, 
+  "model": "bookStore.book", 
+  "fields": {
+    "enFile": "books/Python_Cookbook_3rd_Edition.pdf", 
+    "cnFile": "books/Python.Cookbook28\u7b2c2\u724829\u4e2d\u6587\u7248.pdf", 
+    "title": "python cookbook"
+  }
+},
+{
+  "pk": 14, 
+  "model": "bookStore.book", 
+  "fields": {
+    "enFile": "books/Core_python_programming.pdf", 
+    "cnFile": "", 
+    "title": "core python programming"
+  }
+},
+{
+  "pk": 15, 
+  "model": "bookStore.book", 
+  "fields": {
+    "enFile": "", 
+    "cnFile": "books/python\u6807\u51c6\u5e93\u4e2d\u6587\u7248PDF\u5e26\u7ae0\u8282\u4e66\u7b7e.pdf", 
+    "title": "Python Standard Library"
+  }
+},
+{
+  "pk": 16, 
+  "model": "bookStore.book", 
+  "fields": {
+    "enFile": "books/Expert_Python_Programming.pdf", 
+    "cnFile": "books/Python\u9ad8\u7ea7\u7f16\u7a0b.pdf", 
+    "title": "Expert Python Programming"
+  }
+},
+{
+  "pk": 17, 
+  "model": "bookStore.book", 
+  "fields": {
+    "enFile": "", 
+    "cnFile": "books/Python\u6e90\u7801\u5256\u6790.pdf", 
+    "title": "Python\u6e90\u7801\u5256\u6790"
+  }
+},
+{
+  "pk": 18, 
+  "model": "bookStore.book", 
+  "fields": {
+    "enFile": "", 
+    "cnFile": "books/PYTHON\u7f51\u7edc\u7f16\u7a0b\u57fa\u7840.pdf", 
+    "title": "python \u7f51\u7edc\u7f16\u7a0b\u57fa\u7840"
+  }
+},
+{
   "pk": 1, 
   "model": "bookStore.chapter", 
   "fields": {
